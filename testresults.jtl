@@ -1,0 +1,3 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1586988426338,412,S1_ElectionQuery,200,OK,Thread Group 1-1,text,true,,1223,188,1,1,https://www.googleapis.com/civicinfo/v2/elections?key=AIzaSyDsL47VqfVYOeM0tFNRqfYKnvdAnIbYexE,412,0,349
+1586988431275,177,S1_ElectionQuery,200,OK,Thread Group 1-2,text,true,,1223,188,1,1,https://www.googleapis.com/civicinfo/v2/elections?key=AIzaSyDsL47VqfVYOeM0tFNRqfYKnvdAnIbYexE,177,0,103

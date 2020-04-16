@@ -124,7 +124,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename"></stringProp>
+          <stringProp name="filename">/Users/macbook2015/Documents/CNN/testresults.csv</stringProp>
         </ResultCollector>
         <hashTree/>
       </hashTree>
